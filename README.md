@@ -12,10 +12,6 @@ Soy un(a) desarrollador apasionado por la programación y la tecnología. Me esp
 - Programas: [Excel, Power BI]
 - Bases de datos: [SQL Server, MySQL]
 
-## Contribuciones y participación en la comunidad
-- He contribuido a [proyectos de código abierto / comunidades].
-- Me encanta compartir mis conocimientos a través de [blog, charlas, tutoriales, etc.].
-
 ## Contáctame
 - 📫 Puedes encontrarme en [blascarlos92@gmail.com].
 
