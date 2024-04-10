@@ -4,7 +4,7 @@
 Soy un(a) desarrollador apasionado por la programación y la tecnología. Me especializo en [Desarrollo de Software] y disfruto creando soluciones innovadoras.
 
 - 💼 Actualmente en busca de una empresa para realizar prácticas [pre-profesionales].
-- 🎓 Estudiante en [Ingeniería de Software con Inteligencia Artificial] con experiencia en [Desarrollo Web y Analisis de Datos].
+- 🎓 Egresado de la carrera de [Ingeniería de Software con Inteligencia Artificial] con experiencia en [Desarrollo Web y Analisis de Datos].
 - 💡 Siempre en busca de nuevos desafíos y oportunidades de aprendizaje.
 
 ## Mis habilidades técnicas
